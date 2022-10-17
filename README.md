@@ -1,2 +1,2 @@
-# 8e7an-8e7an.github.io
-Website
+# 8e7an.github.io
+Website for testing GitHub pages
